@@ -1,0 +1,21 @@
+body {
+    background-color: transparent;
+    font-family: sans-serif;
+}
+
+#main-container {
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    background-color: transparent;
+}
+
+#floating-icon {
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background-color: transparent;
+    border-radius: 50%;
+}
